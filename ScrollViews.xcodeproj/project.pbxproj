@@ -300,6 +300,7 @@
 				48CB4D361D5E672700E453D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
